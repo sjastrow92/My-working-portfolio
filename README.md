@@ -6,7 +6,13 @@ a working portfolio that shows informaiton about my self and my coding journey s
 
 To access my project, use the links provided to my github repository and the live link to access the page, as well as my committs.
 
+deployment link: https://sjastrow92.github.io/My-working-portfolio/
+
 ## Usage
+
+See below for screenshots of the deployed page as reference.
+![screenshot of top half of deployed page](assets/images/screenshot1.png)
+![screnshot of bottom half of deployed page](assets/images/screenshot2.png)
 
 - See below for the acceptance criteria for this project. This details usage and how the page should be navigated.
 
